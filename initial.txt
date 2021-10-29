@@ -1,1 +1,2 @@
-First step and first lin and more line 
+First step and first line
+feature's second smile
